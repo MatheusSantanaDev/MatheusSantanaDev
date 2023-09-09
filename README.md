@@ -14,8 +14,8 @@
 
 <h3 align="left">GitHub Stats</h3>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MatheusSantanaDev&theme=dark&background=000&border=ffa500&dates=FFF)](https://git.io/streak-stats)
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MatheusSantanaDev&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MatheusSantanaDev&theme=dark&background=000&border=ffa500&dates=FFF)](https://git.io/streak-stats)
